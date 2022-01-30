@@ -9,7 +9,7 @@ Besides Java, I use Python, Golang, React and Vue.js in my professional career a
 
 - 🌱 I’m currently learning Golang
 - 👯 I’m looking to collaborate on open-source golang/python/java/js projects
-- 📫 How to reach me: https://imberkay.com
+- 📫 How to reach me: https://imberkay.com/socials
 
 <!--
 **bakyazi/bakyazi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
